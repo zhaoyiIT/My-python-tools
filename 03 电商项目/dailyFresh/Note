@@ -1,0 +1,5 @@
+---3.18完成功能---
+    # 1. 新建数据库tiantian,建立模型类UserInfo，生成数据表
+    # 2. 导入login.html  register.html,完成用户登录，注册，用户输入校验功能
+    # 3. 导入user_center_info,user_center_order,user_center_site 3个html文件，跳转到用户中心界面
+    # 4. 在用户中心-收货地址界面，完成用户修改收货地址功能
